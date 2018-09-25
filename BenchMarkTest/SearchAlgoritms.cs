@@ -1,0 +1,6 @@
+﻿namespace BenchMarkTest
+{
+    class SearchAlgoritms
+    {
+    }
+}
