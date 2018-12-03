@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMarkTest", "BenchMarkTest\BenchMarkTest.csproj", "{392E3EA2-9AFD-4887-8BC3-63E66DCF2173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetInvestigation", "DotNetInvestigation\DotNetInvestigation.csproj", "{9E26508A-D04C-4692-8785-2E12AB212160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetInvestigation", "DotNetInvestigation\DotNetInvestigation.csproj", "{9E26508A-D04C-4692-8785-2E12AB212160}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichterExamples", "RichterExamples\RichterExamples.csproj", "{D1029D96-A70C-4153-9138-40AC0FD43E28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicTasks", "LogicTasks\LogicTasks.csproj", "{47C9BBE0-3B5A-4DD2-AC29-01FC48CBB937}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingFrameworks", "UnitTestingFrameworks\UnitTestingFrameworks.csproj", "{2F350EF4-B7A8-43D3-BE33-4F2F6D35C44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{C8AE91E8-8426-4567-B268-2D0664455CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +41,15 @@ Global
 		{2F350EF4-B7A8-43D3-BE33-4F2F6D35C44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F350EF4-B7A8-43D3-BE33-4F2F6D35C44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F350EF4-B7A8-43D3-BE33-4F2F6D35C44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AE91E8-8426-4567-B268-2D0664455CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AE91E8-8426-4567-B268-2D0664455CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AE91E8-8426-4567-B268-2D0664455CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AE91E8-8426-4567-B268-2D0664455CB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F637709-4F06-49C1-82AC-EB9A3E88DD6D}
 	EndGlobalSection
 EndGlobal

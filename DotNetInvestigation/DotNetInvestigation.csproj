@@ -70,8 +70,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShortCodeSnippets.cs" />
-    <Compile Include="SingletonPattern.cs" />
-    <Compile Include="SingletonSkeet.cs" />
     <Compile Include="UnitTesting.cs" />
   </ItemGroup>
   <ItemGroup>
